@@ -1,0 +1,25 @@
+{
+  "name": "harmonyosloadanimation",
+  "version": "0.1.0",
+  "description": "Realization of the HarmonyOS loading process .",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node ./boot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrYumu/HarmonyOSLoadAnimation.git"
+  },
+  "keywords": [
+    "HarmonyOS"
+  ],
+  "author": "MrYM (mryumu@qq.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrYumu/HarmonyOSLoadAnimation/issues"
+  },
+  "homepage": "https://github.com/MrYumu/HarmonyOSLoadAnimation#readme",
+  "dependencies": {
+    "open": "^8.2.1"
+  }
+}
